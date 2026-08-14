@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-public class LP-Atividade-N1-1-07-2040482612005
+public class LP_Atividade_N1_1_07_2040482612005
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);

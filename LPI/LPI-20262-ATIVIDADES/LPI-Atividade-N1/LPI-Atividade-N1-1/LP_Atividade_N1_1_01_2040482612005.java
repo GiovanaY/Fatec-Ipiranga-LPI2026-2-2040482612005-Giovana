@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LP_01_01_2040482612005
+public class LP_Atividade_N1_1_01_2040482612005
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
@@ -36,5 +36,6 @@ public class LP_01_01_2040482612005
 		System.out.println ("Nota da Prova Final do Aluno: " + notaProvaFinal);
 		System.out.println ("Conceito Final do Aluno: " + conceitoFinal);
 		System.out.println ("Aluno esta Aprovado (true/false): " + aprovado);
+		sc.close();
 	}
 }
